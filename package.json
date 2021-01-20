@@ -1,0 +1,39 @@
+{
+  "name": "cra-template-slash-graphql",
+  "version": "1.1.1",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "graphql",
+    "apollo",
+    "typescript",
+    "prettier",
+    "husky",
+    "react-router-dom",
+    "graphql-codegen",
+    "dgraph",
+    "slash-graphql",
+    "database",
+    "backend",
+    "auth0",
+    "frontend"
+  ],
+  "description": "A React template to quickly get started deploying a frontend React app and backend Slash GraphQL DBaaS. This also included a setup for integrating the two with Auth0 for user authentication.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dgraph-io",
+    "directory": ""
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://discuss.dgraph.io"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
